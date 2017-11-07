@@ -7,3 +7,5 @@ one of the maintainers.
 
 * Grahame Grieve
 * Alexander Henket
+* Linda Bird
+
